@@ -8,3 +8,4 @@
 
 #### 示例
 - [BigDataView](https://github.com/iGaoWei/BigDataView)
+- [vue-echarts](https://github.com/bym110/vue-echarts)
