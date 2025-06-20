@@ -13,3 +13,4 @@
 - [vue-echarts](https://github.com/bym110/vue-echarts)
 - [积木报表](https://jimureport.com/)
 - [vue3-simple-screen](https://github.com/gitboyzcf/vue3-simple-screen)
+- [create-chart](https://github.com/food-billboard/create-chart)
