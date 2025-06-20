@@ -11,3 +11,4 @@
 - [BigDataView](https://github.com/iGaoWei/BigDataView)
 - [vue-echarts](https://github.com/bym110/vue-echarts)
 - [积木报表](https://jimureport.com/)
+- [vue3-simple-screen](https://github.com/gitboyzcf/vue3-simple-screen)
