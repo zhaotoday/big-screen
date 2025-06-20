@@ -8,6 +8,7 @@
 - [fitview](https://github.com/pbstar/fitview)
 
 #### 示例
+- [data-visual](https://github.com/YuTingtao/data-visual)
 - [BigDataView](https://github.com/iGaoWei/BigDataView)
 - [vue-echarts](https://github.com/bym110/vue-echarts)
 - [积木报表](https://jimureport.com/)
