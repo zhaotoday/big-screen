@@ -1,4 +1,5 @@
 #### 开源
+- [VChart](https://github.com/VisActor/VChart)
 - [AntV](https://antv.antgroup.com/)
 - [datav](http://datav.jiaminghi.com/)
 - [autofit.js](https://auto-plugin.github.io/autofit.js/)
