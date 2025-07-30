@@ -1,4 +1,5 @@
 #### 开源
+- [highcharts](https://www.highcharts.com/)
 - [visactor](https://www.visactor.io/)
 - [openDataV](https://github.com/AnsGoo/openDataV)
 - [VChart](https://github.com/VisActor/VChart)
