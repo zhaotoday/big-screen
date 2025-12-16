@@ -1,4 +1,5 @@
 #### 开源
+- [vfit](https://github.com/v-plugin/vfit)
 - [highcharts](https://www.highcharts.com/)
 - [visactor](https://www.visactor.io/)
 - [openDataV](https://github.com/AnsGoo/openDataV)
